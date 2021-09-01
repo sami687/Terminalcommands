@@ -1,0 +1,4 @@
+#!/bin/bash -x
+ft=feet 
+1ft=12
+echo "$(42/12)"
